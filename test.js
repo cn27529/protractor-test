@@ -1,0 +1,1 @@
+console.log('hi use protractor on test your apps')

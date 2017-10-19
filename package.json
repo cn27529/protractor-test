@@ -1,0 +1,28 @@
+{
+  "name": "protractor-test",
+  "version": "1.0.0",
+  "description": "use protractor on test your apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cn27529/protractor-test.git"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "tester"
+  ],
+  "author": "cn27529",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cn27529/protractor-test/issues"
+  },
+  "homepage": "https://github.com/cn27529/protractor-test#readme",
+  "dependencies": {
+    "events": "^1.1.1",
+    "request": "^2.83.0"
+  }
+}
